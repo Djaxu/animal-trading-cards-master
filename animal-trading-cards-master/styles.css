@@ -1,0 +1,45 @@
+h1 {
+    padding-left: 10px;
+}
+.text {
+    border: 1px dotted black;
+    width: 290px;
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin: 10px;
+    
+}
+.facts {
+    padding: 5px;
+}
+.list {
+    padding: 5px;
+    text-align: left;
+}
+.description {
+    padding: 5px;
+}
+
+img {
+    width: 300px;
+    padding: 10px;
+}
+
+body {
+    border: 1px dotted black;
+    width: 320px;
+    padding: 5px;
+   
+}
+ul{
+    list-style: none;
+}
+span {
+    font-weight: bold;
+    font-size: larger;
+}
+p {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
